@@ -2,4 +2,5 @@ Hello Git!
 Ik ben Maya.
 Nieuwe lijn!
 Nog een nieuwe lijn.
+Wijziging
 
