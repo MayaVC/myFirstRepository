@@ -5,4 +5,9 @@ Nog een nieuwe lijn.
 Wijziging
 
 
+<<<<<<< HEAD
 MASTER BRANCH: wijziging!
+=======
+TEST BRANCH: wijziging aangebracht.
+
+>>>>>>> test
