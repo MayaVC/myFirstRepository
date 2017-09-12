@@ -4,10 +4,11 @@ Nieuwe lijn!
 Nog een nieuwe lijn.
 Wijziging
 
-
-<<<<<<< HEAD
 MASTER BRANCH: wijziging!
-=======
+
 TEST BRANCH: wijziging aangebracht.
 
->>>>>>> test
+
+MASTER BRANCH: wijziging!
+TEST BRANCH: wijziging aangebracht.
+
